@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Prints the size of various types of C program on
- *  the computer it is compiled and run on..
- *  Return: Always 0.
+ * main - Prints the size of various types of C program
+ * Return: Always 0.
  */
 
 int main(void)
